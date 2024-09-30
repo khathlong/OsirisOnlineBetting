@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Project\\OsirisOnlineBetting\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E510885A-A361-4A0E-B777-370B8EBE97D3}|OsirisOnlineBetting\\OsirisOnlineBetting.csproj|c:\\project\\osirisonlinebetting\\osirisonlinebetting\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E510885A-A361-4A0E-B777-370B8EBE97D3}|OsirisOnlineBetting\\OsirisOnlineBetting.csproj|solutionrelative:osirisonlinebetting\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMqService.cs",
+              "DocumentMoniker": "C:\\Project\\OsirisOnlineBetting\\OsirisOnlineBetting\\Services\\RabbitMqService.cs",
+              "RelativeDocumentMoniker": "OsirisOnlineBetting\\Services\\RabbitMqService.cs",
+              "ToolTip": "C:\\Project\\OsirisOnlineBetting\\OsirisOnlineBetting\\Services\\RabbitMqService.cs",
+              "RelativeToolTip": "OsirisOnlineBetting\\Services\\RabbitMqService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:57:01.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
