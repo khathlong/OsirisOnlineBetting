@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\OsirisOnlineBetting.props" />
+</Project>

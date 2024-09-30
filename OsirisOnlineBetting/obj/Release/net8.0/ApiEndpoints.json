@@ -1,0 +1,78 @@
+[
+  {
+    "ContainingType": "OsirisOnlineBetting.Controllers.CasinoWagerController\u002B\u003C\u003Ec",
+    "Method": "\u003CConfigureCasinoWagerEndpoints\u003Eb__0_1",
+    "RelativePath": "api/player/{playerId}/casino",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playerId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OsirisOnlineBetting.Controllers.CasinoWagerController\u002B\u003C\u003Ec",
+    "Method": "\u003CConfigureCasinoWagerEndpoints\u003Eb__0_0",
+    "RelativePath": "api/player/casinowager",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OsirisOnlineBetting.Models.Requests.CasinoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OsirisOnlineBetting.Controllers.CasinoWagerController\u002B\u003C\u003Ec",
+    "Method": "\u003CConfigureCasinoWagerEndpoints\u003Eb__0_2",
+    "RelativePath": "api/player/topSpenders",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
